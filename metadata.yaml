@@ -1,0 +1,46 @@
+_repo: Humours-of-Irish-Life_35891
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35891-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Graves, Charles L. (Charles Larcom)
+    aliases:
+    - Graves, Charles Larcom
+    - Graves, C. L. (Charles Larcom)
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '5634'
+    url: http://www.gutenberg.org/2009/agents/5634
+description: ''
+gutenberg_issued: '2011-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish wit and humor'
+- !lcc 'PN'
+tableOfContents: Daniel O'Rourke / Dr. Maginn -- Adventures of Gilla na Chreck an
+  Gour / P. Kennedy -- The little weaver of Duleek gate / S. Lover -- Fionn MacCumhail
+  and the princess / P.J. McCall -- The Kildare pooka / P. Kennedy -- The piper and
+  the puca / D. Hyde -- McCarthy of Connacht / B. Hunt -- The mad pudding of Ballyboulteen
+  / W. Carleton -- Frank Webber's wager / C. Lever -- Sam Wham and the sawmont / Sir
+  S. Ferguson -- Darby Doyle's voyage to Quebec / T. Ettingsall -- Bob Burke's duel
+  / Dr. Maginn -- Billy Maloney's taste of love and glory / J.S. Le Fanu -- A pleasant
+  journey / C. Lever -- The battle of Aughrim / W. Carleton -- The quare gander /
+  J.S. Le Fanu -- The thrush and the blackbird / C.J. Kickham -- Their last race /
+  F. Mathew -- The first Lord Liftinant / W.P. French -- The boat's share / E.Oe.
+  Somerville and M. Ross -- "King William" / C.O. Eccles -- Quin's rick / J. Barlow
+  -- Maelshaughlinn at the fair / P. Colum -- The Rev. J. J. Meldon and the chief
+  secretary / G.A. Birmingham -- Old Tummus and the battle of Scarva / E. Alexander
+  -- The game leg / K.F Purdon -- Trinket's colt / E.Oe. Somerville and M. Ross --
+  The wee tea table / S. Bullock -- The interpreters / G.A. Birmingham -- A test of
+  truth / J. Barlow -- The wise woman / J. Stevenson -- The meet of the beagles /
+  H. de V. Stacpoole -- The Ballygullion creamery society, limited / L. Doyle.
+title: Humours of Irish Life
+url: http://www.gutenberg.org/ebooks/35891
